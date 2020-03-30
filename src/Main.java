@@ -6,6 +6,7 @@ public class Main {
         System.out.println("the number is:"+x);
         int y= 6;
         System.out.println(String.format("the second num is:")+y);
-
+        int z= 10;
+        System.out.println("rgj"+z);
     }
 }
