@@ -8,5 +8,9 @@ public class Main {
         System.out.println(String.format("the second num is:")+y);
         int z= 10;
         System.out.println("rgj"+z);
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+
+        }
     }
 }
