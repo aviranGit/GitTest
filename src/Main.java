@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Hello world");
         int x=5;
         System.out.println("the number is:"+x);
+        int y;
 
     }
 }
