@@ -10,7 +10,12 @@ public class Main {
         System.out.println("rgj"+z);
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
-
         }
+        int y2=foo();
+        System.out.println(y2);
+    }
+
+    public static int foo(){
+        return 4;
     }
 }
