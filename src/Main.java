@@ -13,8 +13,8 @@ public class Main {
         }
         int y2=foo();
         System.out.println(y2);
+        int xx = 3;
     }
-
     public static int foo(){
         return 4;
     }
